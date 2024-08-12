@@ -37,4 +37,7 @@ if (a==2) {
 else{
   console.log("its not work");
   
+  console.log("its not work");
+
+  
 }

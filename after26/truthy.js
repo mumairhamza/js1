@@ -7,6 +7,7 @@ if (email) {
     
 }else{
     console.log("not login");
+    console.log("not login");
     
 }
 
